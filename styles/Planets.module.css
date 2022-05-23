@@ -1,0 +1,11 @@
+.name{
+    text-align: center;
+    font-size: 30px;
+}
+.order{
+    background-image: url("https://cdn.pixabay.com/photo/2012/02/25/19/11/nightsky-16967_960_720.jpg") ;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+ -o-background-size: cover;
+    border-radius:15px;
+}
